@@ -1,1 +1,2 @@
 In the context of computing, Eclipse is an integrated development environment(IDE) for developing applications using the java programming language and other programing languages such as c/c++,python,perl,ruby etc
+The eclipse platform which provides the foundation for the eclipse ide is composed of plug ins and is designed to be extensible using additional plugins.Developed using java, the eclipse platform can be used to develop rich client applications
